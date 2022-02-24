@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Catherine
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning SQL, Python, Tableau, Google Ads... Anything fun around data and marketing.
+- 📫 https://www.linkedin.com/in/catherineballarin/
